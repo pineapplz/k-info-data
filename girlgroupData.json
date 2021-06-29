@@ -1,0 +1,60 @@
+[
+    {
+        "name":"BLACKPINK",
+        "image":"blackpink",
+        "debutDate":"",
+        "agency":"",
+        "fandom":"",
+        "members": [
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""}
+        ]
+    },
+    {
+        "name":"ITZY",
+        "image":"itzy",
+        "debutDate":"",
+        "agency":"",
+        "fandom":"",
+        "members": [
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""}
+        ]
+    },
+    {
+        "name":"MAMAMOO",
+        "image":"mamamoo",
+        "debutDate":"",
+        "agency":"",
+        "fandom":"",
+        "members": [
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""}
+        ]
+    },
+    {
+        "name":"TWICE",
+        "image":"twice",
+        "debutDate":"",
+        "agency":"",
+        "fandom":"",
+        "members": [
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""}
+        ]
+    }
+]

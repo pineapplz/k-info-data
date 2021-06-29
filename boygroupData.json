@@ -1,0 +1,125 @@
+[
+    {
+        "name":"ATEEZ",
+        "image":"ateez",
+        "debutDate":"",
+        "agency":"",
+        "fandom":"",
+        "members": [
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""}
+        ]
+    },
+    {
+        "name":"BTS",
+        "image":"bts",
+        "debutDate":"June 13, 2013",
+        "agency":"HYBE Labels",
+        "fandom":"A.R.M.Y",
+        "members": [
+            {"stageName":"RM", "realName":"Kim Nam Joon 김남준", "dateOfBirth":"September 12, 1994", "zodiacSign":"Virgo", "position":"Leader, Main Rapper", "image":"rm"},
+            {"stageName":"Jin", "realName":"Kim Seok Jin 김석진", "dateOfBirth":"December 4, 1992", "zodiacSign":"Sagittarius", "position":"Sub Vocalist, Visual", "image":"jin"},
+            {"stageName":"Suga", "realName":"Min Yoon Gi 민윤기", "dateOfBirth":"March 9, 1993", "zodiacSign":"Pisces", "position":"Lead Rapper", "image":"suga"},
+            {"stageName":"J-Hope", "realName":"Jung Ho Seok 정호석", "dateOfBirth":"February 18, 1994", "zodiacSign":"Aquarius", "position":"Main Dancer, Sub Rapper, Sub Vocalist", "image":"j-hope"},
+            {"stageName":"Jimin", "realName":"Park Ji Min 박지민", "dateOfBirth":"October 13, 1995", "zodiacSign":"Libra", "position":"Main Dancer, Lead Vocalist", "image":"jimin"},
+            {"stageName":"V", "realName":"Kim Tae Hyung 김태형", "dateOfBirth":"December 30, 1995", "zodiacSign":"Capricorn", "position":"Lead Dancer, Sub Vocalist, Visual", "image":"v"},
+            {"stageName":"Jungkook", "realName":"Jeon Jung Kook 전정국", "dateOfBirth":"September 1, 1997", "zodiacSign":"Virgo", "position":"Main Vocalist, Lead Dancer, Sub Rapper, Center, Maknae", "image":"jungkook"}
+        ]
+    },
+    {
+        "name":"ENHYPEN",
+        "image":"enhypen",
+        "debutDate":"",
+        "agency":"",
+        "fandom":"",
+        "members": [
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""}
+        ]
+    },
+    {
+        "name":"SEVENTEEN",
+        "image":"seventeen",
+        "debutDate":"",
+        "agency":"",
+        "fandom":"",
+        "members": [
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""}
+        ]
+    },
+    {
+        "name":"Stray Kids",
+        "image":"straykids",
+        "debutDate":"",
+        "agency":"",
+        "fandom":"",
+        "members": [
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""}
+        ]
+    },
+    {
+        "name":"TREASURE",
+        "image":"treasure",
+        "debutDate":"",
+        "agency":"",
+        "fandom":"",
+        "members": [
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""}
+        ]
+    },
+    {
+        "name":"TXT",
+        "image":"txt",
+        "debutDate":"",
+        "agency":"",
+        "fandom":"",
+        "members": [
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
+            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""}
+        ]
+    }
+]
