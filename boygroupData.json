@@ -3,8 +3,10 @@
         "name":"ATEEZ",
         "image":"ateez",
         "debutDate":"",
-        "agency":"",
-        "fandom":"",
+        "agency":"KQ Entertainment",
+        "fandom":"ATINY",
+        "latestComeback":"Fireworks (I'm The One)",
+        "link":"https://www.youtube.com/watch?v=xtcVwuauVV0",
         "members": [
             {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
             {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
@@ -22,6 +24,8 @@
         "debutDate":"June 13, 2013",
         "agency":"HYBE Labels",
         "fandom":"A.R.M.Y",
+        "latestComeback":"",
+        "link":"",
         "members": [
             {"stageName":"RM", "realName":"Kim Nam Joon 김남준", "dateOfBirth":"September 12, 1994", "zodiacSign":"Virgo", "position":"Leader, Main Rapper", "image":"rm"},
             {"stageName":"Jin", "realName":"Kim Seok Jin 김석진", "dateOfBirth":"December 4, 1992", "zodiacSign":"Sagittarius", "position":"Sub Vocalist, Visual", "image":"jin"},
@@ -38,6 +42,8 @@
         "debutDate":"",
         "agency":"",
         "fandom":"",
+        "latestComeback":"",
+        "link":"",
         "members": [
             {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
             {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
@@ -54,6 +60,8 @@
         "debutDate":"",
         "agency":"",
         "fandom":"",
+        "latestComeback":"",
+        "link":"",
         "members": [
             {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
             {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
@@ -76,6 +84,8 @@
         "debutDate":"",
         "agency":"",
         "fandom":"",
+        "latestComeback":"",
+        "link":"",
         "members": [
             {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
             {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
@@ -93,6 +103,8 @@
         "debutDate":"",
         "agency":"",
         "fandom":"",
+        "latestComeback":"",
+        "link":"",
         "members": [
             {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
             {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
@@ -114,6 +126,8 @@
         "debutDate":"",
         "agency":"",
         "fandom":"",
+        "latestComeback":"",
+        "link":"",
         "members": [
             {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
             {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
