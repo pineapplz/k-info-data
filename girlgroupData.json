@@ -5,6 +5,8 @@
         "debutDate":"",
         "agency":"",
         "fandom":"",
+        "latestComeback":"",
+        "link":"",
         "members": [
             {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
             {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
@@ -18,6 +20,8 @@
         "debutDate":"",
         "agency":"",
         "fandom":"",
+        "latestComeback":"",
+        "link":"",
         "members": [
             {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
             {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
@@ -32,6 +36,8 @@
         "debutDate":"",
         "agency":"",
         "fandom":"",
+        "latestComeback":"",
+        "link":"",
         "members": [
             {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
             {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
@@ -45,6 +51,8 @@
         "debutDate":"",
         "agency":"",
         "fandom":"",
+        "latestComeback":"",
+        "link":"",
         "members": [
             {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
             {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
