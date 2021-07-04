@@ -8,10 +8,10 @@
         "latestComeback":"",
         "link":"",
         "members": [
-            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
-            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
-            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
-            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""}
+            {"stageName":"", "realName":"", "image":"", "dateOfBirth":"", "zodiacSign":"", "position":""},
+            {"stageName":"", "realName":"", "image":"", "dateOfBirth":"", "zodiacSign":"", "position":""},
+            {"stageName":"", "realName":"", "image":"", "dateOfBirth":"", "zodiacSign":"", "position":""},
+            {"stageName":"", "realName":"", "image":"", "dateOfBirth":"", "zodiacSign":"", "position":""}
         ]
     },
     {
@@ -23,11 +23,11 @@
         "latestComeback":"",
         "link":"",
         "members": [
-            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
-            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
-            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
-            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
-            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""}
+            {"stageName":"", "realName":"", "image":"", "dateOfBirth":"", "zodiacSign":"", "position":""},
+            {"stageName":"", "realName":"", "image":"", "dateOfBirth":"", "zodiacSign":"", "position":""},
+            {"stageName":"", "realName":"", "image":"", "dateOfBirth":"", "zodiacSign":"", "position":""},
+            {"stageName":"", "realName":"", "image":"", "dateOfBirth":"", "zodiacSign":"", "position":""},
+            {"stageName":"", "realName":"", "image":"", "dateOfBirth":"", "zodiacSign":"", "position":""}
         ]
     },
     {
@@ -39,10 +39,10 @@
         "latestComeback":"",
         "link":"",
         "members": [
-            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
-            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
-            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
-            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""}
+            {"stageName":"", "realName":"", "image":"", "dateOfBirth":"", "zodiacSign":"", "position":""},
+            {"stageName":"", "realName":"", "image":"", "dateOfBirth":"", "zodiacSign":"", "position":""},
+            {"stageName":"", "realName":"", "image":"", "dateOfBirth":"", "zodiacSign":"", "position":""},
+            {"stageName":"", "realName":"", "image":"", "dateOfBirth":"", "zodiacSign":"", "position":""}
         ]
     },
     {
@@ -54,15 +54,15 @@
         "latestComeback":"",
         "link":"",
         "members": [
-            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
-            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
-            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
-            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
-            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
-            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
-            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
-            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""},
-            {"stageName":"", "realName":"", "dateOfBirth":"", "zodiacSign":"", "position":"", "image":""}
+            {"stageName":"", "realName":"", "image":"", "dateOfBirth":"", "zodiacSign":"", "position":""},
+            {"stageName":"", "realName":"", "image":"", "dateOfBirth":"", "zodiacSign":"", "position":""},
+            {"stageName":"", "realName":"", "image":"", "dateOfBirth":"", "zodiacSign":"", "position":""},
+            {"stageName":"", "realName":"", "image":"", "dateOfBirth":"", "zodiacSign":"", "position":""},
+            {"stageName":"", "realName":"", "image":"", "dateOfBirth":"", "zodiacSign":"", "position":""},
+            {"stageName":"", "realName":"", "image":"", "dateOfBirth":"", "zodiacSign":"", "position":""},
+            {"stageName":"", "realName":"", "image":"", "dateOfBirth":"", "zodiacSign":"", "position":""},
+            {"stageName":"", "realName":"", "image":"", "dateOfBirth":"", "zodiacSign":"", "position":""},
+            {"stageName":"", "realName":"", "image":"", "dateOfBirth":"", "zodiacSign":"", "position":""}
         ]
     }
 ]
