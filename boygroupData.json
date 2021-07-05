@@ -27,13 +27,13 @@
         "latestComeback":"Butter",
         "link":"https://www.youtube.com/watch?v=WMweEpGlu_U",
         "members": [
-            {"stageName":"RM", "realName":"Kim Nam Joon 김남준", "image":"rm", "dateOfBirth":"September 12, 1994", "zodiacSign":"Virgo", "position":"Leader, Main Rapper"},
-            {"stageName":"Jin", "realName":"Kim Seok Jin 김석진", "image":"jin", "dateOfBirth":"December 4, 1992", "zodiacSign":"Sagittarius", "position":"Sub Vocalist, Visual"},
-            {"stageName":"Suga", "realName":"Min Yoon Gi 민윤기", "image":"suga", "dateOfBirth":"March 9, 1993", "zodiacSign":"Pisces", "position":"Lead Rapper"},
-            {"stageName":"J-Hope", "realName":"Jung Ho Seok 정호석", "image":"j-hope", "dateOfBirth":"February 18, 1994", "zodiacSign":"Aquarius", "position":"Main Dancer, Sub Rapper, Sub Vocalist"},
-            {"stageName":"Jimin", "realName":"Park Ji Min 박지민", "image":"jimin", "dateOfBirth":"October 13, 1995", "zodiacSign":"Libra", "position":"Main Dancer, Lead Vocalist"},
-            {"stageName":"V", "realName":"Kim Tae Hyung 김태형", "image":"v", "dateOfBirth":"December 30, 1995", "zodiacSign":"Capricorn", "position":"Lead Dancer, Sub Vocalist, Visual"},
-            {"stageName":"Jungkook", "realName":"Jeon Jung Kook 전정국", "image":"jungkook", "dateOfBirth":"September 1, 1997", "zodiacSign":"Virgo", "position":"Main Vocalist, Lead Dancer, Sub Rapper, Center, Maknae"}
+            {"stageName":"RM", "realName":"Kim Nam Joon 김남준", "image":"https://pineapplz.github.io/k-info-data/bts/bts_rm.jpg", "dateOfBirth":"September 12, 1994", "zodiacSign":"Virgo", "position":"Leader, Main Rapper"},
+            {"stageName":"Jin", "realName":"Kim Seok Jin 김석진", "image":"https://pineapplz.github.io/k-info-data/bts/bts_jin.jpg", "dateOfBirth":"December 4, 1992", "zodiacSign":"Sagittarius", "position":"Sub Vocalist, Visual"},
+            {"stageName":"Suga", "realName":"Min Yoon Gi 민윤기", "image":"https://pineapplz.github.io/k-info-data/bts/bts_suga.jpg", "dateOfBirth":"March 9, 1993", "zodiacSign":"Pisces", "position":"Lead Rapper"},
+            {"stageName":"J-Hope", "realName":"Jung Ho Seok 정호석", "image":"https://pineapplz.github.io/k-info-data/bts/bts_jhope.jpg", "dateOfBirth":"February 18, 1994", "zodiacSign":"Aquarius", "position":"Main Dancer, Sub Rapper, Sub Vocalist"},
+            {"stageName":"Jimin", "realName":"Park Ji Min 박지민", "image":"https://pineapplz.github.io/k-info-data/bts/bts_jimin.jpg", "dateOfBirth":"October 13, 1995", "zodiacSign":"Libra", "position":"Main Dancer, Lead Vocalist"},
+            {"stageName":"V", "realName":"Kim Tae Hyung 김태형", "image":"https://pineapplz.github.io/k-info-data/bts/bts_v.jpg", "dateOfBirth":"December 30, 1995", "zodiacSign":"Capricorn", "position":"Lead Dancer, Sub Vocalist, Visual"},
+            {"stageName":"Jungkook", "realName":"Jeon Jung Kook 전정국", "image":"https://pineapplz.github.io/k-info-data/bts/bts_jungkook.jpg", "dateOfBirth":"September 1, 1997", "zodiacSign":"Virgo", "position":"Main Vocalist, Lead Dancer, Sub Rapper, Center, Maknae"}
         ]
     },
     {
